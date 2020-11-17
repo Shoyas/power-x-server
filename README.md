@@ -1,7 +1,7 @@
 # Power-X-Server
 ## The server site of Power-X-Gym 
 
-link: https://github.com/subreena/power-x-gym-team71 
+Client site repository link: https://github.com/subreena/power-x-gym-team71 
 
 Features:
 - 
